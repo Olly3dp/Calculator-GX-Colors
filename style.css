@@ -8,6 +8,7 @@ body{
     flex-direction: column;
     justify-content: center;
     height: 100vh;
+    
 
 }
 
@@ -20,10 +21,14 @@ h1{
 
 #Calculator{
     max-width: 560px;
-    background-color: #1c1c1c;
+    
     margin:auto;
     padding: 10px;
     border-radius: 10px;
+    border-radius: 54px;
+    background: #ff8e52;
+    box-shadow:  33px -33px 66px #e8814b,
+             -33px 33px 66px #ff9b59;
 }
 
 #display{
