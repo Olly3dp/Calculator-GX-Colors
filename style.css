@@ -21,6 +21,7 @@ h1{
 #Calculator{
     max-width: 560px;
     background-color: #1c1c1c;
+    margin:auto;
     padding: 10px;
     border-radius: 10px;
 }
