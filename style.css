@@ -1,8 +1,8 @@
 body{
     text-align: left;
     margin: 0;
-    background: rgb(159,100,8);
-    background: linear-gradient(90deg, rgba(159,100,8,1) 0%, rgba(255,133,42,1) 21%, rgba(225,101,76,1) 51%, rgba(161,31,151,1) 100%);
+    background: rgb(255,133,42);
+    background: linear-gradient(90deg, rgba(255,133,42,1) 21%, rgba(225,101,76,1) 51%, rgba(161,31,151,1) 100%);
     mask-size: cover;
     display: flex;
     flex-direction: column;
